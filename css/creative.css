@@ -157,7 +157,7 @@ header {
   background-position: center;
   background-image: url('../img/car1.jpg');
   text-align: center;
-  color: white;
+  color: blue;
 }
 header .header-content {
   position: relative;
@@ -329,14 +329,14 @@ fieldset[disabled] .btn-default:active,
 .btn-default[disabled].active,
 fieldset[disabled] .btn-default.active {
   background-color: white;
-  border-color: white;
+  border-color: blue;
 }
 .btn-default .badge {
-  color: white;
+  color: blue;
   background-color: #222222;
 }
 .btn-primary {
-  color: white;
+  color: blue;
   background-color: #F05F40;
   border-color: #F05F40;
   -webkit-transition: all 0.35s;
