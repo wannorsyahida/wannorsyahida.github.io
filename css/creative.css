@@ -47,7 +47,7 @@ p {
 }
 .bg-dark {
   background-color: #222222;
-  color: white;
+  color: blue;
 }
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
@@ -62,7 +62,7 @@ aside {
   padding: 0;
 }
 .navbar-default {
-  background-color: white;
+  background-color: blue;
   border-color: rgba(34, 34, 34, 0.05);
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.35s;
